@@ -17,6 +17,8 @@ namespace Projeto_PIM_Terceiro_Semestre
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            // teste
         }
     }
 }

@@ -1,7 +1,11 @@
-# Projeto-PIM-Terceiro-Semestre
+# Projeto PIM Terceiro-Semestre
+
+
+# TEMA
  O Sistema Integrado para Gestão de Chamados e Suporte Técnico Baseado em IA é uma solução inovadora projetada para otimizar o atendimento e a resolução de problemas técnicos dentro de empresas e organizações. Combinando automação inteligente e aprendizado de máquina, o sistema melhora a eficiência operacional, reduz o tempo de resposta e proporciona uma experiência aprimorada para usuários e equipes de suporte.
 
- Principais Funcionalidades:
+ #Principais Funcionalidades:
+ 
 📌 Abertura e Gerenciamento de Chamados: Permite aos usuários registrar solicitações de suporte, acompanhar o status dos chamados e interagir com a equipe técnica.
 
 🤖 Assistente Virtual com IA: Utiliza inteligência artificial para sugerir soluções automáticas com base em um banco de conhecimento, reduzindo a carga sobre a equipe de suporte.
