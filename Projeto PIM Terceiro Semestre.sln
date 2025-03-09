@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto PIM Terceiro Semestre", "Projeto PIM Terceiro Semestre\Projeto PIM Terceiro Semestre.csproj", "{8CBC236D-FBD5-403E-B9B5-049D4B4497F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CBC236D-FBD5-403E-B9B5-049D4B4497F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBC236D-FBD5-403E-B9B5-049D4B4497F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBC236D-FBD5-403E-B9B5-049D4B4497F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBC236D-FBD5-403E-B9B5-049D4B4497F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E382F285-5420-4F5D-A7D9-D6FD7567EE2E}
+	EndGlobalSection
+EndGlobal
